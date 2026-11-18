@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding:0 px;
+    box-sizing: border-box;
+
+}
+
+body{
+    color:brown;
+    background-color: rgb(195, 189, 189);
+    margin:0.5em;
+    padding:0.5em;
+}
